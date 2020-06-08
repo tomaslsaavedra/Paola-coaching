@@ -2061,13 +2061,13 @@ Animation Css
   background-repeat: repeat; }
 
 .bg-image-business {
-  background-image: url(img/bg/bg-image-64.jpg);
+  background-image: url(../imgss/paola-principal.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
 
 .bg-image-slider {
-  background-image: url(img/business-2/home-business-02-hero-bg.jpg);
+  background-image: url(../imgss/paola-principal.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
