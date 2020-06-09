@@ -2057,8 +2057,8 @@ Animation Css
   background-position: top right; }
 
 .blog-bg-image {
-  background-image: url(img/bg/bg-image-63.jpg);
-  background-repeat: repeat; }
+  /* background-image: url(img/bg/bg-image-63.jpg); */
+  /* background-repeat: repeat; } */
 
 .bg-image-business {
   background-image: url(../imgss/paola-principal.png);
@@ -8777,6 +8777,7 @@ a.moredetails-btn {
 
 .brook-section-title-business .separator::after {
   content: "";
+  color: #FFBB34 
   display: inline-block;
   margin-top: 39px;
   width: 80px;
@@ -17709,7 +17710,8 @@ Row And Column
   z-index: 2; }
 
 .row-column-content .separator {
-  height: 200px; }
+  height: 200px;
+  }
 
 .vc_row-separator svg {
   fill: #69afed;
