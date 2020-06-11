@@ -8763,17 +8763,17 @@ a.moredetails-btn {
   color: rgba(17, 17, 17, 0.4); }
 
 .brook-section-title-business h3 {
-  font-size: 46px;
+  font-size: 36px;
   margin-bottom: 0; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .brook-section-title-business h3 {
-      font-size: 32px; } }
+      font-size: 30px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .brook-section-title-business h3 {
-      font-size: 28px; } }
+      font-size: 26px; } }
   @media only screen and (max-width: 767px) {
     .brook-section-title-business h3 {
-      font-size: 26px; } }
+      font-size: 24px; } }
 
 .brook-section-title-business .separator::after {
   content: "";
