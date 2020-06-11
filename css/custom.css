@@ -12,13 +12,16 @@
 	font-size: 16px;
 	font-weight: lighter;
 }
+#fp-nav ul{
+	visibility: hidden;
+}
 @media only screen and (max-width: 600px) {
 	#titulosResponsive{
 		padding-left: 10%;
 		padding-right: 10%;
 	}	
 	#titulazo{
-		font-size: 20px;
+		font-size: 25px;
 	}
 	#subtituloResponsive{
 		padding-left: 5%;
