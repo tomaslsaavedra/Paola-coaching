@@ -12481,7 +12481,7 @@ a {
       .business-slider-content h5 {
         margin-bottom: 30px; } }
   .business-slider-content h2 {
-    font-size: 80px;
+    font-size: 48px;
     line-height: 102px;
     letter-spacing: 12px;
     color: #fff;
@@ -12492,22 +12492,22 @@ a {
       .business-slider-content h2 {
         padding-left: 5%;
         padding-right: 5%;
-        font-size: 50px;
+        font-size: 30px;
         line-height: 70px;
         margin-bottom: 20px; } }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .business-slider-content h2 {
-        font-size: 50px;
+        font-size: 30px;
         line-height: 70px;
         margin-bottom: 20px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .business-slider-content h2 {
-        font-size: 50px;
+        font-size: 30px;
         line-height: 70px;
         margin-bottom: 20px; } }
     @media only screen and (max-width: 767px) {
       .business-slider-content h2 {
-        font-size: 40px;
+        font-size: 24px;
         line-height: 60px;
         margin-bottom: 20px; } }
   .business-slider-content p {
