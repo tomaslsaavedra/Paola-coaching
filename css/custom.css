@@ -12,6 +12,7 @@
 	font-size: 16px;
 	font-weight: lighter;
 	font-style: normal;
+	text-transform: none;
 }
 #fp-nav ul{
 	visibility: hidden;
