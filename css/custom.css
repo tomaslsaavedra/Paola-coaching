@@ -26,3 +26,17 @@
 		padding-right: 5%;
 	}
 }
+@media only screen and (max-width: 600px) {
+	#speaker-padding
+	{
+		padding-bottom: 50px;
+		
+	}
+}
+@media only screen and (max-width: 600px) {
+	#programacion-padding
+	{
+		padding-bottom: 25px;
+		
+	}
+}
