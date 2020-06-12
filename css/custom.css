@@ -12,6 +12,7 @@
 	font-size: 16px;
 	font-weight: lighter;
 	font-style: normal;
+	text-transform: none;
 }
 #fp-nav ul{
 	visibility: hidden;
@@ -22,8 +23,8 @@
 		padding-right: 10%;
 	}	
 	#subtituloResponsive{
-		padding-left: 5%;
-		padding-right: 5%;
+		padding-left: 10%;
+		padding-right: 10%;
 	}
 }
 @media only screen and (max-width: 600px) {
