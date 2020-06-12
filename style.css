@@ -8785,7 +8785,7 @@ a.moredetails-btn {
   background-image: -webkit-gradient(linear, left top, right top, from(rgba(159, 57, 57, 0)), color-stop(rgba(159, 57, 57, 0.8)), to(rgba(159, 57, 57, 0)));
   background-image: -webkit-linear-gradient(left, rgba(159, 57, 57, 0), rgba(159, 57, 57, 0.8), rgba(159, 57, 57, 0));
   background-image: -o-linear-gradient(left, rgba(159, 57, 57, 0), rgba(159, 57, 57, 0.8), rgba(159, 57, 57, 0));
-  background-image: linear-gradient(90deg, rgba(159, 57, 57, 0), rgba(159, 57, 57, 0.8), rgba(159, 57, 57, 0)); }
+  background-image: linear-gradient(90deg, #FFBB34, #FFBB34, #FFBB34); }
 
 .brook-section-title-corona h2 {
   font-size: 50px;
@@ -8941,7 +8941,7 @@ a.moredetails-btn {
   .title-separator.w--200::after {
     width: 200px; }
   .title-separator.color-red::after {
-    background: #F0263F; }
+    background: #FFBB34; }
   .title-separator.color-blue::after {
     background: #0038E3; }
 
