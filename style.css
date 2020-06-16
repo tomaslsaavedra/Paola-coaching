@@ -2056,18 +2056,18 @@ Animation Css
   background-repeat: no-repeat;
   background-position: top right; }
 
-.blog-bg-image {
+/* .blog-bg-image {
   /* background-image: url(img/bg/bg-image-63.jpg); */
-  /* background-repeat: repeat; } */
+  /* background-repeat: repeat; } */ */
 
 .bg-image-business {
-  background-image: url(../imgss/paola-principal.png);
+  background-image: url(/imgss/paola01.JPG);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
 
 .bg-image-slider {
-  background-image: url(img/slider/type/bg-image-19.jpg);
+  background-image: url(/imgss/paola01.JPG);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
@@ -23942,7 +23942,7 @@ Freelancer Area
     background: #fff; }
 
 .open-hamberger-wrapper {
-  background-image: url(img/bg/bg-image-28.jpg);
+  background-image: url(imgss/paola02.JPG);
   background-color: #222;
   background-repeat: no-repeat;
   background-position: center center;
