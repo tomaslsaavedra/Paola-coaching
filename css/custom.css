@@ -17,6 +17,13 @@
 #fp-nav ul{
 	visibility: hidden;
 }
+
+@media only screen and (max-width: 600px) {
+	#sectionaza{
+		background-image: none;
+	}	
+
+
 @media only screen and (max-width: 600px) {
 	#titulosResponsive{
 		padding-left: 10%;
