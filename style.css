@@ -45538,3 +45538,9 @@ preview Area
     height: 404px; } }
 
 /*# sourceMappingURL=style.css.map */
+
+
+@media only screen and (max-width: 600px) {
+	#sectionaza {
+		background-image:none;
+	}	
